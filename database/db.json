@@ -1,0 +1,34 @@
+{
+  "user":[
+    {
+      "id":1,
+      "name": "bubby",
+      "email":"bubby2405@gmail.com",
+      "status":"Active",
+      "role":"Owner"
+    },
+    {
+      "id":2,
+      "name": "angelakka",
+      "email":"angelakka@gmail.com",
+      "status":"Active",
+      "role":"Admin"
+    },
+    {
+      "id":3,
+      "name": "bk",
+      "email":"bhargavasaikanala@gmail.com",
+      "status":"Active",
+      "role":"Admin"
+    },
+    {
+      "id":4,
+      "name": "rango",
+      "email":"rango2405@gmail.com",
+      "status":"Inactive",
+      "role":"Owner"
+    }
+    
+    
+  ]
+}
